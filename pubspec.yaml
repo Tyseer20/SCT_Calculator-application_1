@@ -1,0 +1,13 @@
+name: calc_mate
+description: A simple and elegant calculator app built in Flutter.
+
+environment:
+  sdk: '>=2.17.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  math_expressions: ^2.2.0
+
+flutter:
+  uses-material-design: true
